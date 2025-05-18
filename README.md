@@ -9,30 +9,14 @@
   <a href="https://leetcode.com/ajayprasath2005/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
   <a href="https://linkedin.com/in/ajay-prasath-4b76872b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-# 🖥️📱 PC Controller using Mobile
-
-A cross-platform solution to control your computer using a mobile device via WiFi/USB connection.
-
-![Project Banner](https://via.placeholder.com/1024x400.png?text=PC+Controller+using+Mobile+App+Demo) <!-- Replace with your actual banner image -->
-
-## 📥 Latest Downloads
-
-###Pc Controller App for Desktop
-[![Windows Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
-[![Download Button](https://img.shields.io/badge/Download-Windows_App-green.svg)](https://github.com/yourusername/pc-controller/raw/main/releases/pc-controller-v1.0.0.exe) <!-- Replace with actual link -->
-
-### Android Mobile App
-[![Android Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
-[![Download Button](https://img.shields.io/badge/Download-Android_App-green.svg)](https://github.com/yourusername/pc-controller/raw/main/releases/mobile-controller-v1.0.0.apk) <!-- Replace with actual link -->
-
-## ✨ Features
-- 🖱️ Mouse control via touchscreen
-- ⌨️ Keyboard input support
-- 📲 File transfer capabilities
-- 🔒 Secure connection
 
 
+### ⚡ **Daily Coding Stats**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
+</p>
 ### 🛠️ **Tech Stack**
+
 
 <div align="center">
 
