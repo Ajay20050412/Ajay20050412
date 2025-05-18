@@ -15,11 +15,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
 </p>
+
 ### 🛠️ **Tech Stack**
-
-
 <div align="center">
-
 **🌐 Languages**  
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 30px 0;">
 
