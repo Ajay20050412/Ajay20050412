@@ -11,6 +11,15 @@
 </p>
 
 
+---
+
+### ⚡ **Daily Coding Stats**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
+</p>
+
+---****
+
 ### 🛠️ **Tech Stack**
 
 <p align="center">
@@ -50,14 +59,7 @@
 </div>
 
 ---
----
 
-### ⚡ **Daily Coding Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
-</p>
-
----
 
 ---
 
