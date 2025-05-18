@@ -69,7 +69,7 @@
 <div align="center">
 
 [![PC Controller Receiver](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=Pc_Controle_Reciver&theme=react)](https://github.com/ajay20050412/Pc_Controle_Reciver)
-[![PC Remote](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=Pc_Remote&theme=react)](https://github.com/ajay20050412/Pc_Remote)
+[![PC Remote](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=Cs-Department&theme=react)](https://github.com/ajay20050412/Pc_Remote)
 
 </div>
 ---
