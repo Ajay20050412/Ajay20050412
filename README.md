@@ -10,14 +10,6 @@
   <a href="https://linkedin.com/in/ajay-prasath-4b76872b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
----
-
-### ⚡ **Daily Coding Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
-</p>
-
----
 
 ### 🛠️ **Tech Stack**
 
@@ -46,16 +38,6 @@
 
 </p>
 
----
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ajay20050412&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay20050412&layout=compact&theme=react&langs_count=8&hide_border=true"/>
-</div>
-
----
 
 ### 🌟 **Featured Projects**
 
@@ -68,6 +50,26 @@
 </div>
 
 ---
+---
+
+### ⚡ **Daily Coding Stats**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
+</p>
+
+---
+
+---
+
+### 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ajay20050412&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay20050412&layout=compact&theme=react&langs_count=8&hide_border=true"/>
+</div>
+
+---
+
 
 ### 📫 **Connect With Me**
 
