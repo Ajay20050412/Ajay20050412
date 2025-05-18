@@ -10,42 +10,6 @@
   <a href="https://linkedin.com/in/ajay-prasath-4b76872b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-
-### 📲 **PC Controller Applications**
-
-<div align="center">
-
-#### 🖥️ PC Controller Receiver
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-[![Download](https://img.shields.io/badge/Download-PC_Controller_Receiver.exe-0078D4?style=for-the-badge&logo=windows)](https://github.com/ajay20050412/Pc_Control_Receiver/releases/download/v1.0.0/PC_Controller_Receiver.exe)
-
-**Features**:
-- Remote PC control via mobile
-- Low latency connection
-- Secure authentication
-
----
-
-#### 📱 Mobile Controller App
-![Version](https://img.shields.io/badge/version-1.0.1-green)
-[![Download](https://img.shields.io/badge/Download-Mobile_Controller.apk-32DE84?style=for-the-badge&logo=android)](https://github.com/ajay20050412/Pc_Remote/releases/download/v1.0.1/Mobile_Controller.apk)
-
-**Features**:
-- Intuitive touch controls
-- Connection status monitoring
-- Customizable layout
-
-</div>
-
-### 📥 **Installation Guide**
-
-1. **PC Application**:
-   ```bash
-   # Download the latest release
-   https://github.com/ajay20050412/Pc_Control_Receiver/releases/latest
-
-
-
 ### ⚡ **Daily Coding Stats**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
