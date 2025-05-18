@@ -42,17 +42,16 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin: 2rem 0;">
   <div style="flex: 1 1 200px; padding: 1rem; background: #1a1a1a; border-radius: 10px;">
     <h3>🖱️ Touchscreen Control</h3>
-    <p>Precision mouse control with multi-touch gestures</p>
+
   </div>
   
   <div style="flex: 1 1 200px; padding: 1rem; background: #1a1a1a; border-radius: 10px;">
     <h3>⌨️ Virtual Keyboard</h3>
-    <p>Full keyboard input with custom macros</p>
+   
   </div>
   
    <div style="flex: 1 1 200px; padding: 1rem; background: #1a1a1a; border-radius: 10px;">
-    <h3>File sharing</h3>
-    <p>Full keyboard input with custom macros</p>
+     <h3>📁 File Transfer</h3>
   </div>
 </div>
 
