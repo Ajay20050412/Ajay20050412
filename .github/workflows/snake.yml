@@ -1,0 +1,24 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: platane/snk@master
+        with:
+          github_user_name: ajay20050412 # Your GitHub username
+          svg_path: assets/github-contribution-grid-snake.svg # Output path
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: assets/github-contribution-grid-snake.svg
+          message: 'docs: Update contribution snake'
