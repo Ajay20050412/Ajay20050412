@@ -59,14 +59,23 @@
 
 ### 🌟 **Featured Projects**
 
-<!-- Replace with your actual projects -->
-<div align="center">
-  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=REPO_NAME&theme=react)](https://github.com/ajay20050412/REPO_NAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=REPO_NAME&theme=react)](https://github.com/ajay20050412/REPO_NAME)
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+
+[![Portfolio Website](https://custom-banner-url.com/portfolio.png)](https://ajayprasath.com)
+**🎨 Personal Portfolio**  
+React • Tailwind CSS • Framer Motion  
+<a href="https://github.com/ajay20050412/portfolio">
+  <img src="https://img.shields.io/github/stars/ajay20050412/portfolio?color=58A6FF&logo=github&style=for-the-badge"/>
+</a>
+
+[![AI Chat App](https://custom-banner-url.com/ai-chat.png)](https://chat.ajayprasath.com)
+**🤖 AI Chat Application**  
+Next.js • TypeScript • OpenAI API  
+<a href="https://github.com/ajay20050412/ai-chat">
+  <img src="https://img.shields.io/github/last-commit/ajay20050412/ai-chat?color=10B981&logo=github&style=for-the-badge"/>
+</a>
 
 </div>
-
 ---
 
 ### 📫 **Connect With Me**
