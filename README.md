@@ -11,7 +11,40 @@
 </p>
 
 
+### 📲 **PC Controller Applications**
+
+<div align="center">
+
+#### 🖥️ PC Controller Receiver
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+[![Download](https://img.shields.io/badge/Download-PC_Controller_Receiver.exe-0078D4?style=for-the-badge&logo=windows)](https://github.com/ajay20050412/Pc_Control_Receiver/releases/download/v1.0.0/PC_Controller_Receiver.exe)
+
+**Features**:
+- Remote PC control via mobile
+- Low latency connection
+- Secure authentication
+
 ---
+
+#### 📱 Mobile Controller App
+![Version](https://img.shields.io/badge/version-1.0.1-green)
+[![Download](https://img.shields.io/badge/Download-Mobile_Controller.apk-32DE84?style=for-the-badge&logo=android)](https://github.com/ajay20050412/Pc_Remote/releases/download/v1.0.1/Mobile_Controller.apk)
+
+**Features**:
+- Intuitive touch controls
+- Connection status monitoring
+- Customizable layout
+
+</div>
+
+### 📥 **Installation Guide**
+
+1. **PC Application**:
+   ```bash
+   # Download the latest release
+   https://github.com/ajay20050412/Pc_Control_Receiver/releases/latest
+
+
 
 ### ⚡ **Daily Coding Stats**
 <p align="center">
@@ -63,17 +96,17 @@
 
 </div>
 
-
-### 🌟 **Featured Projects**
+<!--
+[### 🌟 **Featured Projects**
 
 <div align="center">
 
 [![PC Controller Receiver](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=Pc_Controle_Reciver&theme=react)](https://github.com/ajay20050412/Pc_Controle_Reciver)
 [![PC Remote](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=Cs-Department&theme=react)](https://github.com/ajay20050412/Pc_Remote)
 
-</div>
----
+</div>](url)
 
+-->
 
 
 
