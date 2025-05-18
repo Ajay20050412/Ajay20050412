@@ -69,8 +69,8 @@
 <!-- Replace with your actual projects -->
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=REPO_NAME&theme=react)](https://github.com/ajay20050412//Pc_Controle_Reciver)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=REPO_NAME&theme=react)](https://github.com/ajay20050412//Pc_Remote)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=REPO_NAME&theme=react)](https://github.com/ajay20050412/Pc_Controle_Reciver)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ajay20050412&repo=REPO_NAME&theme=react)](https://github.com/ajay20050412/Cs-Department)
 
 </div>
 
