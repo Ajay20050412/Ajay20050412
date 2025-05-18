@@ -89,3 +89,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajay20050412/ajay20050412/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+![Contribution Snake](https://raw.githubusercontent.com/ajay20050412/ajay20050412/main/assets/github-contribution-grid-snake.svg)
