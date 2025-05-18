@@ -24,7 +24,7 @@
 
   <div style="display: inline-block; margin: 0 1rem;">
     <h3>Pc Remote   --Android mobile</h3>
-    <a href="YOUR_ANDROID_DOWNLOAD_LINK">
+    <a href=https://github.com/ajay20050412/Pc_Controle_Reciver/raw/main/releases/pc-controller-v1.0.0.exe">
       <img src="https://img.shields.io/badge/Download-v1.0.0_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     </a>
   </div>
