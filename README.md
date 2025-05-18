@@ -17,7 +17,7 @@ A cross-platform solution to control your computer using a mobile device via WiF
 
 ## 📥 Latest Downloads
 
-### Windows Controller App
+###Pc Controller App for Desktop
 [![Windows Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![Download Button](https://img.shields.io/badge/Download-Windows_App-green.svg)](https://github.com/yourusername/pc-controller/raw/main/releases/pc-controller-v1.0.0.exe) <!-- Replace with actual link -->
 
@@ -29,26 +29,8 @@ A cross-platform solution to control your computer using a mobile device via WiF
 - 🖱️ Mouse control via touchscreen
 - ⌨️ Keyboard input support
 - 📲 File transfer capabilities
-- 🔄 Clipboard synchronization
-- 🔋 Battery status monitoring
 - 🔒 Secure connection
 
-## 🛠️ Installation
-
-### PC Application Requirements
-- Windows 10/11
-- .NET Framework 4.8
-- [ADB Drivers](https://developer.android.com/studio/run/win-usb)
-
-```bash
-# For developer setup
-git clone https://github.com/yourusername/pc-controller.git
-cd pc-controller
-npm install
-### ⚡ **Daily Coding Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajay20050412&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000&ring=52DD7C&currStreakLabel=52DD7C" height="250"/>
-</p>
 
 ### 🛠️ **Tech Stack**
 
