@@ -83,9 +83,4 @@
   </a>
 </p>
 
----
 
-### 🐍 **Contribution Graph**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajay20050412/ajay20050412/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
