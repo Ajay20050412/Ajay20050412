@@ -4,6 +4,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Coding+since+2020;Full-Stack+Developer;Open-Source+Contributor;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajay20050412/ajay20050412/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajay20050412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
