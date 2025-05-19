@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajay20050412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
   
-  <a href="https://linkedin.com/in/ajay-prasath-4b76872b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+  
 
 
 ### ⚡ **Daily Coding Stats**
